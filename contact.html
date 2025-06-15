@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Me</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Contact Me</h1>
+    <div class="nav-toggle" onclick="toggleMenu()">☰</div>
+    <nav id="navbar">
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact Me</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="contact-section">
+      <h2>Let's Connect</h2>
+      <div class="contact-icons">
+        <div class="contact-item">
+          <img src="images/email-icon.png" alt="Email" class="icon" />
+          <p><a href="mailto:chaturat@mail.uc.edu">chaturat@mail.uc.edu</a></p> 
+        </div>
+        <div class="contact-item">
+          <img src="images/linkedin-icon.png" alt="LinkedIn" class="icon" />
+          <a href="https://www.linkedin.com/in/akshat-100ac/" target="_blank">LinkedIn Profile</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>  
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      const nav = document.getElementById('navbar');
+      nav.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

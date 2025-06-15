@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Me</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
+    <div class="nav-toggle" onclick="toggleMenu()">☰</div>
+    <nav id="navbar">
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact Me</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="about-section">
+      <img src="images/photo.jpg" alt="My Photo" class="profile-photo" />
+      <p>Hello! I'm a Computer Science student with a strong interest in AI and Data Science.
+         Since my high-school time, I was very fascinated about different types of data and figuring out 
+         about the trends and developments I can make out of them. I am proficient in Python and C++ programming langauges.
+         I love to to automate large amounts of datasets using Python libraries such TensorFlow, Seaborn,numpy and matplotlib.
+         I open to exploring and researching more in the field of AI and ML and making good products out of them which can benefit the society in an effective way.
+      </p>
+    </section>
+  </main>
+
+  <footer> 
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      const nav = document.getElementById('navbar');
+      nav.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
