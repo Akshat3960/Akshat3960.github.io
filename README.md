@@ -3,10 +3,15 @@
 ## Contact Information
 
 **Name:** Akshat Chaturvedi
+
 **Major:** Computer Science
+
 **University:** University of Cincinnati – College of Engineering and Applied Science
+
 **Email:** *chaturat@mail.uc.edu*
+
 **LinkedIn:** *https://www.linkedin.com/in/akshat-100ac/* 
+
 **Location:** Cincinnati, Ohio
 
 ---
