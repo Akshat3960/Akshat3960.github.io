@@ -180,12 +180,12 @@ Developed an AI-powered business intelligence solution using **LLMs, RAG, vector
 
 ## Project Sought
 
-For my capstone project, I am seeking an opportunity to work on a **real-world technology problem** where I can apply my experience in artificial intelligence, machine learning, data engineering, and software development.
+For my capstone project, I am seeking an opportunity to work on a real-world technology problem where I can apply my experience in artificial intelligence, machine learning, data engineering, and software development.
 
 I am particularly interested in projects involving Generative AI and LLMs, Machine Learning, Healthcare Technology and Intelligent Software Applications
 
 
-I would like to work on a project that involves **both technical depth and practical impact**. Ideally, the project would allow me to contribute to the complete development process, including requirements analysis, system design, data processing, AI/ML development, application development, testing, and deployment.
+I would like to work on a project that involves both technical depth and practical impact. Ideally, the project would allow me to contribute to the complete development process, including requirements analysis, system design, data processing, AI/ML development, application development, testing, and deployment.
 
 I am also looking for a project where I can collaborate closely with team members, learn from different areas of expertise, and develop a solution that provides measurable value to its intended users or organization.
 
@@ -195,4 +195,4 @@ Ultimately, I want my capstone experience to challenge me technically while allo
 
 ## Professional Goal
 
-My professional goal is to build a career at the intersection of **software engineering, artificial intelligence, and data**. I hope to continue developing scalable and practical AI-driven solutions while strengthening my skills in system design, machine learning, cloud technologies, and collaborative software development.
+My professional goal is to build a career at the intersection of software engineering, artificial intelligence, and data. I hope to continue developing scalable and practical AI-driven solutions while strengthening my skills in system design, machine learning, cloud technologies, and collaborative software development.
