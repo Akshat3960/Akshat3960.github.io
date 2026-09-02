@@ -182,16 +182,8 @@ Developed an AI-powered business intelligence solution using **LLMs, RAG, vector
 
 For my capstone project, I am seeking an opportunity to work on a **real-world technology problem** where I can apply my experience in artificial intelligence, machine learning, data engineering, and software development.
 
-I am particularly interested in projects involving:
+I am particularly interested in projects involving Generative AI and LLMs, Machine Learning, Healthcare Technology and Intelligent Software Applications
 
-* **Generative AI and LLMs**
-* **Machine Learning**
-* **Data Science and Data Engineering**
-* **Retrieval-Augmented Generation (RAG)**
-* **Healthcare Technology**
-* **Cybersecurity**
-* **Business Intelligence**
-* **Intelligent Software Applications**
 
 I would like to work on a project that involves **both technical depth and practical impact**. Ideally, the project would allow me to contribute to the complete development process, including requirements analysis, system design, data processing, AI/ML development, application development, testing, and deployment.
 
