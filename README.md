@@ -4,9 +4,7 @@
 
 **Name:** Akshat Chaturvedi
 
-**Major:** Computer Science
-
-**University:** University of Cincinnati – College of Engineering and Applied Science
+**Major:** Computer Science 
 
 **Email:** *chaturat@mail.uc.edu*
 
